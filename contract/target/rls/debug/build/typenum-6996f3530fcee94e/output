@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/wcastrov/projects/personal/blockchain/near/nearvember/say-hello/contract/target/rls/debug/build/typenum-6996f3530fcee94e/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/wcastrov/projects/personal/blockchain/near/nearvember/say-hello/contract/target/rls/debug/build/typenum-6996f3530fcee94e/out/op.rs

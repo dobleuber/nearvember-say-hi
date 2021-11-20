@@ -1,0 +1,11 @@
+/Users/wcastrov/projects/personal/blockchain/near/nearvember/say-hello/contract/target/rls/debug/deps/generic_array-a3ee8d472c5ad69f.rmeta: /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/Users/wcastrov/projects/personal/blockchain/near/nearvember/say-hello/contract/target/rls/debug/deps/generic_array-a3ee8d472c5ad69f.d: /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs:
+/Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs:
+/Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs:
+/Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs:
+/Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs:
+/Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs:
+/Users/wcastrov/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs:
